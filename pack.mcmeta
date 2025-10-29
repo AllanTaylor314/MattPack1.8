@@ -1,6 +1,6 @@
 {
   "pack": {
-    "pack_format": 8,
-    "description": "A compilation of textures from many packs"
+    "pack_format": 1,
+    "description": "MattPack (backported by AllanTaylor314)"
   }
 }

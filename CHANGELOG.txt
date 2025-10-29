@@ -1,0 +1,12 @@
+Backported to 1.8 by AllanTaylor314
+
+Renamed <color>_wool to wool_colored_<color> (and light_gray to silver)
+Renamed comparator to comparator_off
+Renamed repeater to repeater_off
+Renamed restone_torch to redstone_torch_on
+
+Removed new blocks:
+- Composter (1.14)
+
+# Get rs power levels & note blocks from VT
+# Get cauldron levels
