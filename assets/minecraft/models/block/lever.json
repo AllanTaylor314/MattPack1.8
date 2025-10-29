@@ -2,10 +2,10 @@
 	"credit": "Created by Stridey",
 	"ambientocclusion": false,
 	"textures": {
-		"base_texture": "minecraft:block/lever_base",
-		"particle": "minecraft:block/cobblestone",
-		"base": "minecraft:block/cobblestone",
-		"lever": "minecraft:block/lever"
+		"base_texture": "block/lever_base",
+		"particle": "block/cobblestone",
+		"base": "block/cobblestone",
+		"lever": "block/lever"
 	},
 	"elements": [
 		{
